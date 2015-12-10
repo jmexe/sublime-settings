@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter",
+		"LaTeXTools",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Pylinter",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Tomorrow Color Schemes"
+	]
+}
